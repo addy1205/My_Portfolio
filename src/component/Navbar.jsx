@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react'
-import resumePdf from "../assets/RESUME.pdf"
+import resumePdf from "../assets/My_Resume.pdf"
 
 
 function Navbar() {

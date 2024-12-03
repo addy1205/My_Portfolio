@@ -22,17 +22,6 @@ const projectsArray = [
     },
     {
         sNo: 2,
-        image: weatherImg,
-        name: "Weather App",
-        description: "It shows current temperature, other weather conditions, 3 days forecast and has a whole day temperature forecast in a 3-hour difference in graph.",
-        techStack: ["HTML", "CSS", "React JS", "Weather API"],
-        link: "https://weather-app-mk12.netlify.app/",
-        target: "_blank",
-        github: "https://github.com/mayankkr121001/weather-app"
-
-    },
-    {
-        sNo: 3,
         image: votingImg,
         name: "Voteverse",
         description: "A college / school voting web app in which student can login using credential given by admin and can vote. It also has a admin panel through which admin host elections. ( College project )",
@@ -43,7 +32,7 @@ const projectsArray = [
 
     },
     {
-        sNo: 4,
+        sNo: 3,
         image: portfolioImg,
         name: "Portfolio",
         description: "A personal portfolio website showcasing web development projects and skills. Built with React JS and Tailwind CSS, it also includes contact information for potential job opportunities.",
